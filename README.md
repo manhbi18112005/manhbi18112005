@@ -2,7 +2,9 @@
   <h1>๖ۣۜŇŇ_MyTツ:man_technologist:</h1>
 </div>
 
- ![Photo](https://github.com/manhbi18112005/MyInfo/blob/main/815042778366607360.gif?raw=true) 
+<div align="center">
+<img src="![Photo](https://github.com/manhbi18112005/MyInfo/blob/main/815042778366607360.gif?raw=true)">
+</div>
 
 <h4>My name is MyT, I'm working as a part-time freelancer. I am interested in improving my skills as a full-stack developer and learning about more about the technology, I am currently working with Node.js, Javascript and C++ 💻.<h4> 
   
