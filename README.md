@@ -22,8 +22,14 @@
 
 ## **Contact**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:ducmanh.nonamestudio@outlook.com.vn)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:myt@nonamestudio.xyz)  
 
 ![Twitter Badge](https://img.shields.io/twitter/follow/nn_myt)
 
 ![Discord Badge](https://img.shields.io/discord/425670185089892362)
+
+## **Stats**  
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manhbi18112005&theme=dracula&count_private=true">
+</div>
