@@ -46,6 +46,3 @@
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=manhbi18112005&show_icons=true&hide_border=true&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhbi18112005&theme=tokyonight&hide=batchfile">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
