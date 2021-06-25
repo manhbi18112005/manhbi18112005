@@ -30,8 +30,22 @@
 
 ![Discord Badge](https://img.shields.io/discord/425670185089892362)
 
+---
+
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-4/382856633652477952.png" alt="๖ۣۜŇŇ_MyTツ#1811">
+</div>
+
+---
+  
 ## **Stats**  
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=manhbi18112005&theme=dracula&count_private=true">
 </div>
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manhbi18112005&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhbi18112005&theme=tokyonight&hide=batchfile">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=syrup&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup&theme=tokyonight&hide=batchfile">
