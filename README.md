@@ -29,10 +29,6 @@
 ---
   
 ## **Stats**  
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manhbi18112005&theme=dracula&count_private=true">
-</div>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manhbi18112005&show_icons=true&hide_border=true&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhbi18112005&theme=tokyonight&hide=batchfile">
+![](https://github-readme-stats.vercel.app/api?username=manhbi18112005&show_icons=true&hide_border=true&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=manhbi18112005&theme=dracula&count_private=true)
