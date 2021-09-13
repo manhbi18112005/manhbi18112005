@@ -12,12 +12,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-Sql_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 
 ## **Contact**
 
