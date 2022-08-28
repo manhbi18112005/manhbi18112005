@@ -3,9 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=manhbi18112005">
 </div>
 
-<h4>Nice to meet you, my name is MyT and I am currently working with 
-[](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a), 
-[](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) and C++ 💻.<h4> 
+<h4>Nice to meet you, my name is MyT and I am currently working with <h4> <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a"> , 
+<ing src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"> <h4> and C++ 💻.<h4> 
 
 ## **Contact**
 
