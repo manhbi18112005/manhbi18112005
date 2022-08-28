@@ -3,17 +3,13 @@
 <img src="https://komarev.com/ghpvc/?username=manhbi18112005">
 </div>
 
-<h4>Nice to meet you, my name is MyT and I am currently working with <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a"> , <ing src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"> and C++ 💻.<h4> 
+<h4>Nice to meet you, my name is MyT and I am currently working with <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a"> and C++ 💻.<h4> 
 
 ## **Contact**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:myt@nonamestudio.xyz) [![Twitter Badge](https://img.shields.io/twitter/follow/nn_myt)](https://twitter.com/nn.myt) [![Discord Badge](https://img.shields.io/discord/425670185089892362)](https://myt.nonamestudio.xyz/discord)
 
 ---
-
-<div align="center">
-<img src="https://discord.c99.nl/widget/theme-4/382856633652477952.png" alt="๖ۣۜŇŇ_MyTツ#1811">
-</div>
 
 ---
   
