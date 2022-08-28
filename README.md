@@ -4,8 +4,8 @@
 </div>
 
 <h4>Nice to meet you, my name is MyT and I am currently working with 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a), 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) and C++ 💻.<h4> 
+[](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a), 
+[](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) and C++ 💻.<h4> 
 
 ## **Contact**
 
