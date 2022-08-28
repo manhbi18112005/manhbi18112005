@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=manhbi18112005">
 </div>
 
-<h4>My name is MyT, I'm working as a part-time freelancer. I am interested in improving my skills as a full-stack developer and learning about more about the technology, I am currently working with Node.js, Javascript and C++ 💻.<h4> 
+<h4>Nice to meet you, my name is MyT and I am currently working with Node.js, Javascript and C++ 💻.<h4> 
   
 ## 🔧 **Technologies & Tools**
 
