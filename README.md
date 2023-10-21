@@ -7,7 +7,7 @@
 
 ## **Contact**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:myt@nonamestudio.xyz) [![Twitter Badge](https://img.shields.io/twitter/follow/nn_myt)](https://twitter.com/nn.myt) [![Discord Badge](https://img.shields.io/discord/425670185089892362)](https://myt.nonamestudio.xyz/discord)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:myt@nonamestudio.xyz) [![Twitter Badge](https://img.shields.io/twitter/follow/nn_myt)](https://twitter.com/nn.myt) [![Discord Badge](https://img.shields.io/discord/425670185089892362)](https://bot.nnsvn.me/discord)
 
 ---
 
