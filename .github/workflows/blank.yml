@@ -34,5 +34,11 @@ jobs:
       - name: Get Ngrok 
         run: Invoke-WebRequest http://localhost:4040/api/tunnels
         
+      - name: download onedrive and tixati
+        shell: powershell
+        run: |
+          Invoke-WebRequest https://download1.tixati.com/download/tixati-3.19-1.win64-install.exe -OutFile tixati.exe
+          Start-Process chrome.exe '--new-window https://www.microsoft.com/en-gb/microsoft-365/onedrive/download'
+          
       - name: Run loop
         run: ping -t localhost
