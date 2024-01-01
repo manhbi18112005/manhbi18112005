@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>๖ۣۜŇŇ_MyTツ:man_technologist:</h1>
+  <h1>MyTツ:man_technologist:</h1>
 <img src="https://komarev.com/ghpvc/?username=manhbi18112005">
 </div>
 
