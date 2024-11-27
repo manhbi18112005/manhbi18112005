@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, MyTツ is here <span align="right"> <img src="https://komarev.com/ghpvc/?username=manhbi18112005&label=Profile%20views&color=0e75b6&style=flat" alt="manhbi18112005" /> </span></h1>
-<h3 align="center">I am an undergraduate student at UET-VNU, proud to be 🇻🇳!</h3>
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhbi18112005" alt="manhbi18112005" /></a> </p>
 
-- 🔭 I’m currently working on [NONAME Discord Bot](https://github.com/manhbi18112005/BotNoName)
+- 🔭 I'm currently working as an AI researcher at FCE-UET-VNU.
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently advancing in **Deep Learning, Web Development and Optimization**.
 
 - 👨‍💻 All of my projects are available at [https://myt.nnsvn.me](https://myt.nnsvn.me)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **anything**, I may not know the answers for all your problems but I know where you should be directed to.
 
 - 📫 How to reach me **myt@nnsvn.me**
 
-- ⚡ Fun fact **I spent 300 hours on Hypixel Skyblock in 2 months.**
+- ⚡ My main project is [NONAME Application](https://github.com/manhbi18112005/BotNoName)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
