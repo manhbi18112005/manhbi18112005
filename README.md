@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manhbi18112005" alt="manhbi18112005" /></a> </p>
 
-- 🔭 I'm currently working as an AI researcher at FCE-UET-VNU.
+- 🔭 I'm currently working as a Research Assistant at UALab.
 
-- 🌱 I’m currently advancing in **Deep Learning, Web Development and Optimization**.
+- 🌱 I’m currently advancing in **Deep Learning, Web Development and Management**.
 
 - 👨‍💻 All of my projects are available at [https://myt.nnsvn.me](https://myt.nnsvn.me)
-
-- 💬 Ask me about **anything**, I may not know the answers for all your problems but I know where you should be directed to.
 
 - 📫 How to reach me **myt@nnsvn.me**
 
